@@ -12,7 +12,7 @@ public class Demo {
 		
 		
 		
-		System.out.println("Second statement");
+		System.out.println("Second statement is added");
 	}
 
 }
